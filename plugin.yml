@@ -1,0 +1,9 @@
+main: tc.logowanie.main.Main
+name: Logowanie
+version: 1.0
+author: Pr.Adamka
+
+commands:
+  changepass:
+  login:
+  register:
